@@ -77,7 +77,7 @@ footer {
 @media(min-width: 1024px) {
    #container {
        width: 75%;
-       border-radius: 20 px;
+       border-radius: 20px;
    }
    
     #flex {
